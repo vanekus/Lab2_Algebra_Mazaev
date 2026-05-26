@@ -197,7 +197,7 @@ v_w = \beta v_w + (1-\beta)\frac{\partial L}{\partial w}, \quad w \leftarrow w -
 
 ### 6.1 Собственный генератор данных
 
-Реализованы три генератора:
+Реализованы два генератора:
 1. `generate_linear` — два гауссовых облака, линейно разделимые.
 2. `generate_xor` — задача XOR (шахматное расположение классов).
 <img width="684" height="535" alt="image" src="https://github.com/user-attachments/assets/c8a5cbd0-9ee2-405f-916e-f7c954d7a9e0" />
