@@ -211,11 +211,6 @@ v_w = \beta v_w + (1-\beta)\frac{\partial L}{\partial w}, \quad w \leftarrow w -
 
 
 
-
-
-
-
-
 ### 6.3 Метрики качества и анализ ошибок
 
 Для базовой модели вычислены:
